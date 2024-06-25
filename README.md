@@ -5,7 +5,11 @@
 3. Goto sourcecode directory and open project with vscode.
 4. Install node package using yarn install command
 5. Run on realtime environment.
+  
   yarn start
+
 6. Build prodcut.
+  
   yarn build
+
 7. Deploy website using "build" direcotory.
